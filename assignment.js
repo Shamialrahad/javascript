@@ -57,7 +57,7 @@ function hotelCost(day){
             var thirdTerm = remaining*50;
             finalBill = firstTerm+secondTerm+thirdTerm;
         }
-        return finalBill; //print final result
+        return finalBill; //final result
     }
 }
 
